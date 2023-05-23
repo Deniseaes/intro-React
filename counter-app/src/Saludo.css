@@ -1,6 +1,5 @@
 .nombre {
-  font-size: 72px;
-  color: aquamarine;
-  background-color: burlywood;
-  border: solid black 10px;
+  font-size: 50px;
+  color: rgb(185, 127, 255);
+  border: solid white 2px;
 }
